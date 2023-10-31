@@ -9,7 +9,7 @@ export default function Home() {
         <LandingHeader />
         {/* Feature section */}
         <section className='flex justify-center'>
-          <div className='bg-white pt-24 pb-12 sm:py-32'>
+          <div className='bg-white pt-24 pb-12 sm:py-24'>
             <div className='mx-auto max-w-7xl px-6 lg:px-8'>
               <div className='mx-auto max-w-2xl lg:mx-0'>
                 <h2 className='text-4xl font-semibold tracking-tight text-gray-900 sm:text-6xl'>
@@ -35,7 +35,7 @@ export default function Home() {
           </div>
         </section>
         <section className='flex justify-center'>
-          <div className='bg-white pt-24 pb-12 sm:py-32'>
+          <div className='bg-white pt-24 pb-12 sm:pt-24 '>
             <div className='mx-auto max-w-7xl px-6 lg:px-8'>
               <div className='mx-auto max-w-2xl lg:mx-0'>
                 <h2 className='text-4xl font-semibold tracking-tight text-gray-900 sm:text-6xl'>

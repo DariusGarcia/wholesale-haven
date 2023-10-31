@@ -17,7 +17,7 @@ export default function LandingHeader() {
           }}
         />
       </div>
-      <div className='mx-auto max-w-2xl py-12 sm:py-24 '>
+      <div className='mx-auto max-w-2xl py-12 sm:py-24'>
         <div className='hidden sm:mb-8 sm:flex sm:justify-center'>
           <div className='relative rounded-full px-3 py-1 text-sm leading-6 text-gray-400 ring-1 ring-white/10 hover:ring-white/20'>
             Browse our most recent released products.{' '}
